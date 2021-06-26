@@ -1,0 +1,32 @@
+{
+  "name": "markdown-it-tips",
+  "version": "1.0.3",
+  "description": "Markdown-it plugin to create tips.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlluGitHub/markdown-it-tips.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "tip",
+    "message"
+  ],
+  "author": {
+    "name": "zllunpm",
+    "email": "zllemil@163.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zlluGitHub/markdown-it-tips/issues"
+  },
+  "homepage": "https://github.com/zlluGitHub/markdown-it-tips#readme",
+  "dependencies": {
+    "markdown-it-container": "^2.0.0"
+  }
+}
