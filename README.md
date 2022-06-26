@@ -10,7 +10,7 @@ Hello world! [Link](#).
 Gets converted to:
 
 ```html
-<div class="md-tip md-tip-warning" role="md-tip">
+<div class="notification is-warning" role="md-tip">
 <p>Hello world! <a href="#" class="md-tip-link">Link</a>.</p>
 </div>
 ```
