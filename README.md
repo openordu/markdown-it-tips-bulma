@@ -1,4 +1,4 @@
-# markdown-it-tips
+# markdown-it-tips-bulma
 Markdown-it plugin to create tips. You can use any type of tip you want, proposed is to use the same type for everything; `warning`,`error`,`success`,`info`,`danger` or keep the type blank for the default styling of a message.
  
 ```md
