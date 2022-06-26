@@ -13,7 +13,7 @@ module.exports = function md_tip_plugin(md, options) {
             render: function (tokens, idx) {
                 if (tokens[idx].nesting === 1) {
                     containerOpenCount += 1;
-                    return '<div class="md-tip md-tip-' + name + '">\n';
+                    return '<div class="notification is-' + name + '">\n';
                 } else {
                     containerOpenCount -= 1;
                     return '</div>\n';
