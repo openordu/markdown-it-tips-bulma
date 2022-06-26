@@ -17,7 +17,7 @@ module.exports = function md_tip_plugin(md, options) {
                     '<div class="message-header">' + name[0].toUpperCase() + name.substring(1) + '</div><div class="message-body">';
                 } else {
                     containerOpenCount -= 1;
-                    return '</div>\n';
+                    return '</div>\n</article>';
                 }
             }
         });
