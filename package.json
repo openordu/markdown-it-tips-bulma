@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zlluGitHub/markdown-it-tips.git"
+    "url": "git+https://github.com/openordu/markdown-it-tips-bulma.git"
   },
   "keywords": [
     "markdown-it-plugin",
@@ -18,14 +18,14 @@
     "message"
   ],
   "author": {
-    "name": "zllunpm",
-    "email": "zllemil@163.com"
+    "name": "patchshorts",
+    "email": "patchshorts@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zlluGitHub/markdown-it-tips/issues"
+    "url": "https://github.com/openordu/markdown-it-tips-bulma/issues"
   },
-  "homepage": "https://github.com/zlluGitHub/markdown-it-tips#readme",
+  "homepage": "https://github.com/openordu/markdown-it-tips-bulma#readme",
   "dependencies": {
     "markdown-it-container": "^2.0.0"
   }
