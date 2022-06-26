@@ -14,7 +14,7 @@ module.exports = function md_tip_plugin(md, options) {
                 if (tokens[idx].nesting === 1) {
                     containerOpenCount += 1;
                     return '<article class="message is-' + name + '">\n' +
-                    '<div class="message-header">' + name + '</div><div class="message-body">';
+                    '<div class="message-header">' + name[0].toUpperCase() + name.substring(1) + '</div><div class="message-body">';
                 } else {
                     containerOpenCount -= 1;
                     return '</div>\n';
