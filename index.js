@@ -48,6 +48,7 @@ module.exports = function md_tip_plugin(md, options) {
         setupContainer('warning');
         setupContainer('danger');
         setupContainer('error');
+        setupContainer('tip');
 		
 		if (links) {
 			setupLinks();
