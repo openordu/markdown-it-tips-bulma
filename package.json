@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-tips",
+  "name": "markdown-it-tips-bulma",
   "version": "1.0.3",
   "description": "Markdown-it plugin to create tips.",
   "main": "index.js",
